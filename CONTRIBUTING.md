@@ -1,4 +1,4 @@
-First off, thank you for considering contributing to `name`. It's people like you that make `name` such a great tool.
+First off, thank you for considering contributing to `media-analyser`. It's people like you that make `media-analyser` such a great tool.
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
@@ -6,7 +6,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## What to Contribute
 
-`name` is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into Elasticsearch itself.
+`media-analyser` is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into Elasticsearch itself.
 
 <a id="ground-rules"> </a>
 
@@ -41,4 +41,4 @@ When filing an issue, make sure to answer the questions in the Bug template.
 
 ## Code review process
 
-The Campus looks at Pull Requests on a regular basis but cannot unfortunately guarantee prompt implementation of Pull Requests.
+The OSR looks at Pull Requests on a regular basis but cannot unfortunately guarantee prompt implementation of Pull Requests.
